@@ -62,7 +62,7 @@ Valid timber docking transactions will never have:
 - Child parts shorter than 3 metres or longer than 12 metres
 - Child parts that are not in increments of 0.3 metres within this range (i.e. 3, 3.3, 3.6, ... 11.7, 12)
 
-## What you will do
+## Your part
 
 Forking this repository to your own GitHub account, write a TypeScript/Javascript program that performs the following
 
