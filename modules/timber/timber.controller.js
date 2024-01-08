@@ -1,8 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const fs = require('fs');
 const { checkValidAndCreateNewTimberData } = require('./timber.services');
-const dataPath = 'modules/timber/data/input-data.json';
 
 
 /* POST data */
